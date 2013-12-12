@@ -10,7 +10,10 @@
     "rails-new-bowerails.html",
     "add-bower-rails-to-gemfile.md",
     "generate-bowerjson.md",
+    "configure.md",
+    "configure-ii.md",
     "bowerfile.md",
     "bizowzer.md",
+    "example-app-and-slides.md",
     "contact.md"
 ]
