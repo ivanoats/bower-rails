@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Bower and Rails",
+    "packageVersion": "0.0.1",
+    "useSass": true
+  }
+}
